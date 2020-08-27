@@ -1,0 +1,27 @@
+.header {
+    text-align: center;
+    background-color: rgb(30, 198, 125);
+    color:rgb(1, 33, 47);
+}
+
+.header nav {
+    background-color: rgb(5, 105, 37);
+    line-height: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    padding: 5px;
+    
+  }
+  nav a:hover{
+    background-color: rgb(233, 85, 80);
+    color:black;
+    text-decoration: none;
+
+  }

@@ -1,0 +1,9 @@
+.Purchase{
+    background-color: rgb(30, 198, 125);
+    width:210%;
+    height: 100%;
+    text-align: center;
+    color: rgba(9, 47, 6, 0.9);
+    border-left: 2px solid white;
+
+}
